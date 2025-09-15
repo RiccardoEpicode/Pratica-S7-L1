@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.esercizio1 {
+  padding: 10px;
+}
+
+.esercizio2 {
+  padding: 10px;
+}
+
+h1 {
+  padding: 10px;
+  color: cadetblue;
+}
+
+img {
+  padding: 10px;
+  width: 95%;
+}
+
+h2 {
+  background-color: aqua;
+  padding: 10px;
+  color: cadetblue;
+}
+
+h3 {
+  padding: 10px;
+  color: cadetblue;
+}
+
+#Risposta1 {
+  font-size: x-large;
+  padding: 10px;
+  color: royalblue;
+}
+
+#Risposta2 {
+  font-size: x-large;
+  padding: 10px;
+  color: royalblue;
+}
+
+#Risposta3 {
+  font-size: x-large;
+  padding: 10px;
+  color: royalblue;
+}
+
+#Risposta4 {
+  font-size: x-large;
+  padding: 10px;
+  color: royalblue;
+}
+
+.form {
+  padding: 20px;
+}
+
+.margin {
+  margin-bottom: 200px;
+}
